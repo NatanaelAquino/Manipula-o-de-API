@@ -1,0 +1,21 @@
+.Comment h1{
+    margin-bottom: 0.5rem;
+}
+
+.Comments{
+    display: flex;
+    flex-direction: column;
+}
+
+.Comments li {
+    background-color: #12171d;
+    margin-bottom: 1rem ;
+    padding: 0.5rem;
+    
+}
+.Comments p,
+.Comments li h2 {
+    margin-bottom: 0.5rem ; 
+    font-weight: normal;   
+    font-family: 'blink';
+}
