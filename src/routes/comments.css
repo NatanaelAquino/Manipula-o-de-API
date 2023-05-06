@@ -1,5 +1,6 @@
-.Comment h1{
-    margin-bottom: 0.5rem;
+.Comment h2{
+    margin-bottom: 1rem;
+    text-align: center;
 }
 
 .Comments{
@@ -13,6 +14,7 @@
     padding: 0.5rem;
     
 }
+
 .Comments p,
 .Comments li h2 {
     margin-bottom: 0.5rem ; 

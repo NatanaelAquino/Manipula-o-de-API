@@ -62,7 +62,7 @@ const Comments = () => {
             <p>{post.body}</p>
           </span>
           <div className='Comments'>
-            <h3>comentário</h3>
+            <h2>comentários</h2>
               <ul>
                 {Comentario.map(user => (
                   <li key={user.id}>
